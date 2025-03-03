@@ -34,7 +34,7 @@ import org.slf4j.Logger;
 public class create_skyblock_addon
 {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "com/lassilos/create_skyblock_addon/create-skyblock-addon";
+    public static final String MODID = "create_skyblock_addon";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
     // Create a Deferred Register to hold Blocks which will all be registered under the "create_skyblock_addon" namespace
